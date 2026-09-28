@@ -1,0 +1,16 @@
+Feature,Importance
+num__Present_Price,0.8773408243603764
+num__Car_Age,0.05402496129635762
+num__Driven_kms,0.032379973595320966
+cat__Transmission_Automatic,0.0048161208443590845
+cat__Brand_Land,0.004655607236942196
+cat__Transmission_Manual,0.00401385496108997
+cat__Brand_City,0.0035672165796022007
+cat__Brand_Fortuner,0.0032554012740667287
+cat__Brand_Corolla,0.0026968063049395406
+cat__Brand_Innova,0.002621133062541793
+cat__Fuel_Type_Petrol,0.0022624699647042067
+cat__Selling_type_Individual,0.0020456951040188735
+cat__Fuel_Type_Diesel,0.0015164888928352997
+cat__Selling_type_Dealer,0.000682845121987777
+cat__Brand_Verna,0.0006617957033432343
